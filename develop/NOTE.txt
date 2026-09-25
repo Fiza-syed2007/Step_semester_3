@@ -1,0 +1,10 @@
+This branch must contain ONLY the empty IDE project skeleton
+(e.g. a blank IntelliJ/Eclipse Java project with no classes or packages).
+
+Do not add any code here. This file is just a placeholder note for the zip
+download and should NOT be committed to the real `develop` branch.
+
+To create the real develop branch content:
+1. Open your IDE and create a new empty Java project.
+2. Do not add any classes or packages.
+3. Push that empty project structure to the `develop` branch.
